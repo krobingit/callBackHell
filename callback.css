@@ -1,0 +1,14 @@
+.countdown{
+    height:100vh;
+    width:100vw;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size:100px;
+   color:crimson;
+
+}
+
+body{
+    background-color: rgb(159, 105, 209);
+}
